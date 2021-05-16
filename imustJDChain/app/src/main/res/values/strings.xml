@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">imust&amp;JDChain</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">查询</string>
+    <string name="title_notifications">上传</string>
+    <string name="tv_user">账号</string>
+    <string name="tv_pass">密码</string>
+    <string name="bt_login">登录</string>
+    <string name="bt_quit">退出</string>
+<!--    <string name=""></string>-->
+</resources>

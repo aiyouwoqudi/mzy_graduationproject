@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_out"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        android:title="导出数据" />
+
+    <item
+        android:id="@+id/menu_switch"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        android:title="切换用户"
+        />
+
+    <item
+        android:id="@+id/menu_Cancellation"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        android:title="注销登录" />
+
+    <item
+        android:id="@+id/menu_about"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        android:title="关于" />
+
+</menu>
