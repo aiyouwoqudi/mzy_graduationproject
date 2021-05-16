@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="sp_function">
-        <item>点击选择功能</item>
-        <item>GetMessage</item>
-        <item>MessageCheck</item>
-    </string-array>
-</resources>
